@@ -14,7 +14,7 @@ seo:
   title: Customer Loyalty Programs That Stick - Updated for 2021
   description: >-
     A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+    amet commodo massa. And how it all works in the new year!
   extra:
     - name: 'og:type'
       value: website
