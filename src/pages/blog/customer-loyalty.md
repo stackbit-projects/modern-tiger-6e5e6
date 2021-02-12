@@ -20,7 +20,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Customer Loyalty Programs That Stick
+      value: Customer Loyalty Programs That Stick - And how to start!
       keyName: property
     - name: 'og:description'
       value: >-
