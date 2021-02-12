@@ -40,7 +40,7 @@ seo:
         A story about customer loyalty curabitur sed consectetur nisi. Integer
         sit amet commodo massa.
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: /images/5_thumb.jpg
       relativeUrl: true
 template: post
 ---
