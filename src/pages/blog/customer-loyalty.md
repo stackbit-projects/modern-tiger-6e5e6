@@ -9,7 +9,7 @@ date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 image: images/5_thumb.jpg
-image_alt: A group of people working in a cafe
+image_alt: Customer loyalty program that sticks!
 seo:
   title: Customer Loyalty Programs That Stick - Updated for 2021
   description: >-
