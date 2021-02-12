@@ -28,7 +28,7 @@ seo:
         sit amet commodo massa.
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: /images/2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
