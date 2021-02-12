@@ -104,7 +104,9 @@ sections:
     title: Latest Posts
 seo:
   title: A title that is catchy written for search engines
-  description: The preview of the Azimuth theme
+  description: >-
+    A description of my site so people on search engines will click and find my
+    work!
   extra:
     - name: 'og:type'
       value: website
